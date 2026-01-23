@@ -12,10 +12,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2B
-- [ ] Reading - Huggett chapter 5
-- [ ] Additional reading - reference article by Scheck-Wenderoth 2020 and paper by Dethier et al. 2022
+- [ ]  Lecture
+- [ ]  Lab - Group 2B
+- [ ]  Reading - Huggett chapter 5
+- [ ]  Additional reading - reference article by Scheck-Wenderoth 2020 and paper by Dethier et al. 2022
 
 ## Lecture
 

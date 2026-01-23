@@ -1,6 +1,6 @@
-# Week 5: Fluvial Landscapes
-
 ![Week 5 Cover image](./assets/images/GY4027_new_banners_Fluvial.png)
+
+# Week 5: Fluvial Landscapes
 
 This week, we will look at landscapes shaped by rivers.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2B
-- [ ] Reading - Huggett chapter 9
-- [ ] Additional reading - papers by Fremier et al. (2018) and Perez-Arlucea and Smith (1999)
+- [ ]  Lecture
+- [ ]  Lab - Group 2B
+- [ ]  Reading - Huggett chapter 9
+- [ ]  Additional reading - papers by Fremier et al. (2018) and Perez-Arlucea and Smith (1999)
 
 ## Lecture
 

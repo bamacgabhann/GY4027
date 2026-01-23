@@ -13,9 +13,9 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture (ONLINE)
-- [ ] Reading - Huggett chapter 3
-- [ ] Additional reading - papers by Baker et al. 2018, Burr et al. 2006, Howard et al. 2017, and Krohn et al. 2014
+- [ ]  Lecture (ONLINE)
+- [ ]  Reading - Huggett chapter 3
+- [ ]  Additional reading - papers by Baker et al. 2018, Burr et al. 2006, Howard et al. 2017, and Krohn et al. 2014
 
 ## Lecture
 

@@ -1,9 +1,10 @@
-# Week 10: LABS ONLY
-
 ![Week 10 Cover image](./assets/images/GY4027_new_banners_Course_Banner.png)
+
+# Week 10: LABS ONLY
 
 Due to the bank holiday, there is no lecture this week; only labs for Group 2A.
 
+- [ ]  Lab - Group 2A
 
 ## Lecture
 

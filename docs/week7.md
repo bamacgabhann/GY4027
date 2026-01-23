@@ -1,6 +1,6 @@
-# Week 7: Coastal Landscapes
-
 ![Week 7 Cover image](./assets/images/GY4027_new_banners_Coastal.png)
+
+# Week 7: Coastal Landscapes
 
 This week, we will look at landscapes shaped by rivers.
 
@@ -11,11 +11,11 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2B
-- [ ] Reading - Huggett chapter 13
-- [ ] Additional reading - papers by Blum and Roberts (2012) and Zhao et al. (2020)
-- [ ] Mini-virtual field trip
+- [ ]  Lecture
+- [ ]  Lab - Group 2B
+- [ ]  Reading - Huggett chapter 13
+- [ ]  Additional reading - papers by Blum and Roberts (2012) and Zhao et al. (2020)
+- [ ]  Mini-virtual field trip
 
 ## Lecture
 

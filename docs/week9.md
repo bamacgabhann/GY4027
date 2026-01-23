@@ -1,6 +1,6 @@
-# Week 9: Karst Landscapes
-
 ![Week 9 Cover image](./assets/images/GY4027_new_banners_Karst.png)
+
+# Week 9: Karst Landscapes
 
 This week, we will look at limestone landscapes shaped by water.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2B
-- [ ] Reading - Huggett chapter 14
-- [ ] Additional reading - papers by Benac *et al.* (2013) and Simms (2004)
+- [ ]  Lecture
+- [ ]  Lab - Group 2B
+- [ ]  Reading - Huggett chapter 14
+- [ ]  Additional reading - papers by Benac *et al.* (2013) and Simms (2004)
 
 ## Lecture
 

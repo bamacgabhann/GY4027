@@ -11,9 +11,9 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Reading - Huggett chapters 1, 7
-- [ ] Additional reading - papers by Shtober-Zisu and Wittenberg (2021), and Castro *et al.* (2020)
+- [ ]  Lecture
+- [ ]  Reading - Huggett chapters 1, 7
+- [ ]  Additional reading - papers by Shtober-Zisu and Wittenberg (2021), and Castro *et al.* (2020)
 
 ## Lecture
 

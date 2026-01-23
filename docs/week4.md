@@ -1,6 +1,6 @@
-# Week 4: Upland Landscapes
-
 ![Week 4 Cover image](./assets/images/GY4027_new_banners_Upland.png)
+
+# Week 4: Upland Landscapes
 
 For the rest of the module, we are now shifting from considering the broad processes like weathering, erosion, transport, and deposition in general, to looking at how they combine to shape landscapes in particular settings. This week, we will consider the processes operating in upland landscapes, and how such landscapes evolve through time.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2A
-- [ ] Reading - Huggett chapter 8
-- [ ] Additional reading - Papers by Amine et al. 2020, and Bishop 2007
+- [ ]  Lecture
+- [ ]  Lab - Group 2A
+- [ ]  Reading - Huggett chapter 8
+- [ ]  Additional reading - Papers by Amine et al. 2020, and Bishop 2007
 
 ## Lecture
 

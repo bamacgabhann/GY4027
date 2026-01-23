@@ -1,6 +1,6 @@
-# Week 8: Aeolian Landscapes
-
 ![Week 8 Cover image](./assets/images/GY4027_new_banners_Aeolian.png)
+
+# Week 8: Aeolian Landscapes
 
 This week, we will explore landscapes shaped by aeolian processes - the wind.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2A
-- [ ] Reading - Huggett chapters 12
-- [ ] Additional reading - papers by Herzog *et al.* (2021) and Delgado-Fernandez and Davidson-Arnott (2011)
+- [ ]  Lecture
+- [ ]  Lab - Group 2A
+- [ ]  Reading - Huggett chapters 12
+- [ ]  Additional reading - papers by Herzog *et al.* (2021) and Delgado-Fernandez and Davidson-Arnott (2011)
 
 ## Lecture
 

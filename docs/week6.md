@@ -1,6 +1,6 @@
-# Week 6: Glacial Landscapes
-
 ![Week 6 Cover image](./assets/images/GY4027_new_banners_Glacial.png)
+
+# Week 6: Glacial Landscapes
 
 This week, we will look at landscapes carved by glaciers.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2A
-- [ ] Reading - Huggett chapters 10-11
-- [ ] Additional reading - paper by Kirkbride and Matthews (1997)
+- [ ]  Lecture
+- [ ]  Lab - Group 2A
+- [ ]  Reading - Huggett chapters 10-11
+- [ ]  Additional reading - paper by Kirkbride and Matthews (1997)
 
 ## Lecture
 

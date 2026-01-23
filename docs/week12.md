@@ -1,6 +1,6 @@
-# Week 12: Anthropogenic Landscapes
-
 ![Week 12 Cover image](./assets/images/GY4027_new_banners_Anthropogenic.png)
+
+# Week 12: Anthropogenic Landscapes
 
 In this final week of the module, we will look at Human influence on the landscape.
 
@@ -11,10 +11,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2A
-- [ ] Reading - Szabó *et al.* chapter 17
-- [ ] Additional reading - papers by 
+- [ ]  Lecture
+- [ ]  Lab - Group 2A
+- [ ]  Reading - Szabó *et al.* chapter 17
+- [ ]  Additional reading - papers by 
 
 ## Lecture
 

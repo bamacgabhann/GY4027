@@ -47,21 +47,26 @@ Mondays 0900-1000, C1-059
 
 **Weekly Schedule:**
 
-Week 1: [Weathering and Erosion](./week1.md)
-Week 2: [Erosion and Transport](./week2.md)
-Week 3: [Transport and Deposition](./week3.md)
-Week 4: [Upland Landscapes](./week4.md)
-Week 5: [Fluvial Landscapes](./week5.md)
-Week 6: [Glacial Landscapes](./week6.md)
-Week 7: [Coastal Landscapes](./week7.md)
-Week 8: [Aeolian Landscapes](./week8.md)
-Week 9: [Karst Landscapes](./week9.md)
-*Easter Break*
-Week 10: [Labs only](./week10.md)
-Week 11: [Planetary Landscapes](./week11.md)
-Week 12: [Anthropogenic Landscapes](./week12.md)
+| Week | Lecture Date | Topic | Lab Date | Lab Group |
+|Week 1 | 26 Jan | [Weathering and Erosion](./week1.md) | -- | -- |
+|Week 2 | ONLINE | [Erosion and Transport](./week2.md) | -- | -- |
+|Week 3 | 09 Feb | [Transport and Deposition](./week3.md) | 13 Feb | 2B |
+|Week 4 | 16 Feb | [Upland Landscapes](./week4.md) | 20 Feb | 2A |
+|Week 5 | 23 Feb | [Fluvial Landscapes](./week5.md) | 27 Feb | 2B |
+|Week 6 | 02 Mar | [Glacial Landscapes](./week6.md) | 06 Mar | 2A |
+|Week 7 | 09 Mar | [Coastal Landscapes](./week7.md) | 13 Mar | 2B |
+|Week 8 | 16 Mar | [Aeolian Landscapes](./week8.md) | 20 Mar | 2A |
+|Week 9 | 23 Mar | [Karst Landscapes](./week9.md) | 27 Mar | 2B |
+|*Easter Break* | 30 Mar - 03 Apr | No lecture | -- | No lab | 
+|Week 10 | -- | [Labs only: No lecture due to Bank Holiday](./week10.md) | 10 Apr | 2A |
+|Week 11 | 13 Apr | [Planetary Landscapes](./week11.md) | 17 Apr |  2B |
+|Week 12 | 20 Apr | [Anthropogenic Landscapes](./week12.md) | 24 Apr | 2A |
 
 ## Module Assessment
 
-TBC
+| Assessment | Due Date | % of module | Learning Outcomes |
+| ----------- | ----------- | ----------- | ----------- |
+| Assessment 1: StoryMap Virtual Field Trip | Friday 27 March | 50% | LOs 1-6 |
+| Assessment 2: Written Exam | Week 14-15 (5-15 May) | 50% | LOs 1-6 |
 
+See [GY4027 Module Assessment](./assessment.md) for details.

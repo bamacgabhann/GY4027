@@ -1,6 +1,6 @@
-# Week 11: Planetary Landscapes
-
 ![Week 11 Cover image](./assets/images/GY4027_new_banners_Planetary.png)
+
+# Week 11: Planetary Landscapes
 
 This week, we'll return to a topic introduced in the reading for Week 2 - landscapes on other planets and moons.
 
@@ -12,10 +12,10 @@ By the end of this week you should be able to:
 
 This section will contain lecture slides and the assigned reading for the week.
 
-- [ ] Lecture
-- [ ] Lab - Group 2B
-- [ ] Reading - no chapter this week
-- [ ] Additional reading - paper by Diniega *et al.* 2021
+- [ ]  Lecture
+- [ ]  Lab - Group 2B
+- [ ]  Reading - no chapter this week
+- [ ]  Additional reading - paper by Diniega *et al.* 2021
 
 ## Lecture
 
