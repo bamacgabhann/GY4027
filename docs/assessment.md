@@ -42,6 +42,8 @@ If you have sufficient photos / videos of your own from a particular place alrea
 
 **Excluded areas:** The Burren and The Cliffs of Moher are specifically excluded as landscapes for this assignment.
 
+You have previously created an ArcGIS StoryMap in the population Geography module, so it should be familiar - but here is a brief guide to [creating your ArcGIS StoryMap](./storymap.md).
+
 **Grading Rubric:**
 
 | Element | F | D | C | B | A |
