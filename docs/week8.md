@@ -44,7 +44,7 @@ Available [online](https://archive.org/details/routledgefundamentalsofphysical/)
 
 Nice mapping paper about the region of Morocco which includes the Erg Chebbi dune field, of which there's a few photos in the lecture.
 
-Delgado-Fernandez, I. and Davidson-Arnott, R. 2011. Meso-scale aeolian sediment input to coastal dunes: The nature of aeolian transport events. *Geomorphology* **126**, 217–232. doi: [10.1016/j.geomorph.2010.11.005](https://doi.org/10.1016/j.geomorph.2010.11.005)
+- Delgado-Fernandez, I. and Davidson-Arnott, R. 2011. Meso-scale aeolian sediment input to coastal dunes: The nature of aeolian transport events. *Geomorphology* **126**, 217–232. doi: [10.1016/j.geomorph.2010.11.005](https://doi.org/10.1016/j.geomorph.2010.11.005)
 
 A really nice paper looking at aeolian transport in a coastal dune system in Canada.
 

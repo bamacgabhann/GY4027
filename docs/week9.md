@@ -52,4 +52,4 @@ This isn't strictly about karst - it discusses limestone erosion, but is a much 
 
 If it looks like karst...is it karst? Or does it have to be formed like karst?
 
-Halliday, W.R. 2007 Pseudokarst in the 21st century. *Journal of Cave and Karst Studies* **69**, 103-113. [download pdf](https://caves.org/wp-content/uploads/Publications/JCKS/v69/cave-69-01-103.pdf)
+- Halliday, W.R. 2007 Pseudokarst in the 21st century. *Journal of Cave and Karst Studies* **69**, 103-113. [download pdf](https://caves.org/wp-content/uploads/Publications/JCKS/v69/cave-69-01-103.pdf)

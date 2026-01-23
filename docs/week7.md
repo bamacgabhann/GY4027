@@ -45,7 +45,7 @@ Available [online](https://archive.org/details/routledgefundamentalsofphysical/)
 
 This is a nice review paper summarising what is known about the Mississippi Delta.
 
-Zhao, Z., Mitchell, N.C., Quartau, R., Ramalho, R.S., and Rusu, L. 2020. Coastal erosion rates of lava deltas around oceanic islands. *Geomorphology* **370**, 107410. doi: [10.1016/j.geomorph.2020.107410](https://doi.org/10.1016/j.geomorph.2020.107410)
+- Zhao, Z., Mitchell, N.C., Quartau, R., Ramalho, R.S., and Rusu, L. 2020. Coastal erosion rates of lava deltas around oceanic islands. *Geomorphology* **370**, 107410. doi: [10.1016/j.geomorph.2020.107410](https://doi.org/10.1016/j.geomorph.2020.107410)
 
 I like this paper because it showcases some of the methods used in studying coastal geomorphology and erosion, which will be new to you, and also because it's something a bit different (volcanic islands) but the conclusions are more broadly applicable.
 
@@ -55,7 +55,7 @@ In this lecture we looked at the gradual processes of coastal erosion and deposi
 
 It isn't always gradual.
 
-Atwater, B.F. 1987 Evidence for Great Holocene Earthquakes along the Outer Coast of Washington State. *Science* **236**, 942-944 [Access via library](https://www-jstor-org.glucksman.idm.oclc.org/stable/1699641)
+- Atwater, B.F. 1987 Evidence for Great Holocene Earthquakes along the Outer Coast of Washington State. *Science* **236**, 942-944 [Access via library](https://www-jstor-org.glucksman.idm.oclc.org/stable/1699641)
 
 
 ## Virtual Field Trip

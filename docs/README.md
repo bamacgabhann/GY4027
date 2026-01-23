@@ -70,3 +70,4 @@ Mondays 0900-1000, C1-059
 | Assessment 2: Written Exam | Week 14-15 (5-15 May) | 50% | LOs 1-6 |
 
 See [GY4027 Module Assessment](./assessment.md) for details.
+

@@ -46,4 +46,8 @@ What moves more material - rivers, or people?
 
 - Del Monte, M., D’Orefice, M., Luberti, G. M., Marini, R., Pica, A., & Vergari, F. 2016 Geomorphological classification of urban landscapes: the case study of Rome (Italy). *Journal of Maps* **12**, 178–189. doi: [10.1080/17445647.2016.1187977](https://doi.org/10.1080/17445647.2016.1187977)
 
+Anthropogenic impacts on the landscape aren't new - in some places they've been happening for thousands of years.
+
 - Hupy, J.P. and Koehler, T. 2012 Modern warfare as a significant form of zoogeomorphic disturbance upon the landscape. *Geomorphology* **157–158**, 169-182. doi: [10.1016/j.geomorph.2011.05.024](https://doi.org/10.1016/j.geomorph.2011.05.024)
+
+It's not just the everyday human activity which modifies the landscape.
