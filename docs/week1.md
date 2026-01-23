@@ -1,6 +1,6 @@
-# Week 1: Weathering and Erosion
-
 ![Week 1 Cover image](./assets/images/GY4027_new_banners_Weathering_Erosion.png)
+
+# Week 1: Weathering and Erosion
 
 Landscapes are largely made of rocks, sediments, and soils. Natural forces shape the landscape by modifying existing rocks, sediment, and soils. This week's lecture will take a closer look at the processes of weathering, some of the geographic factors that control these processes, and some of the landforms they produce.
 

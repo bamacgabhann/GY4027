@@ -1,6 +1,6 @@
-# Week 2: Erosion and Transport
-
 ![Week 2 Cover image](./assets/images/GY4027_new_banners_Erosion_Transport.png)
+
+# Week 2: Erosion and Transport
 
 The landscape is shaped by moving material around. This week, we consider the four agents of erosion and transport: gravity, water, ice, and air.
 

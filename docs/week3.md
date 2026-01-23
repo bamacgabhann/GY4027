@@ -1,6 +1,6 @@
-# Week 3: Transport and Deposition
-
 ![Week 3 Cover image](./assets/images/GY4027_new_banners_Transport_Deposition.png)
+
+# Week 3: Transport and Deposition
 
 Material isn't transported for ever, eventually it's deposited.
 
