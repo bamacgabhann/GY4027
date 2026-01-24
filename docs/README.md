@@ -45,6 +45,8 @@ Mondays 0900-1000, C1-059
 
 *Group 2A:* Fridays 1400-1600, ER2-029, weeks 4, 6, 8, 10, 12
 
+See [GY4027 Labs](./labs.md) for details.
+
 **Weekly Schedule:**
 
 | Week | Lecture Date | Topic | Lab Date | Lab Group |
