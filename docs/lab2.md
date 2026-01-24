@@ -46,7 +46,7 @@ It's also worth adding one more characteristic which we didn't consider in the W
 
 There are four sediments labelled A, B, C, and D in grey trays at the back of the lab. These four sediments come different parts of the same river system.
 
-![River sediments map](./assets/images/clare_glens_map.jpg)
+![River sediments map](./assets/images/clare_glens_map.png)
 
 Your task is to describe the sediments, and to determine which sediment comes from which location.
 

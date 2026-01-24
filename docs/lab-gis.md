@@ -10,7 +10,7 @@ In order to produce the curves, you will use the free and open source GIS softwa
 
 When you open QGIS, from the menu choose `Project > New` to open a new project.
 
-![New project](./assets/images/)
+![New project](./assets/images/02_QGIS_new_layout.png)
 
 The main part of the QGIS window is the map canvas. To the left you should see the Layers and Browser panels. You should also see the Toolbars below the menu above the map canvas.
 
