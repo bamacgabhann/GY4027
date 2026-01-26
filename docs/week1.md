@@ -57,3 +57,11 @@ You certainly don't need to read the entire paper in detail - I don't think it's
 
 which used global datasets to explore how different erosion rates can affect the global climate. Papers in *Science* are high impact research written for a more general audience, this one is definitely worth a look.
 
+
+### Extras
+
+In the lecture I compared freeze-thaw fracturing of rocks to trees exploding in cold snaps, and mentioned Instagram reels from the ongoing cold snap in North America - here's a couple:
+
+[Franklin, Tennessee](https://www.instagram.com/reel/DT82v3cD7C-)
+
+[Nashville, Tennessee](https://www.instagram.com/reel/DT8lX7Rkm7P)
