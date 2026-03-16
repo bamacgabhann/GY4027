@@ -15,6 +15,15 @@ You should record four measurements:
 3. The width of the river channel at that point - measured by laser range finder, in metres
 4. The average depth of the river channel at that point - estimated, in metres
 
+**Measurements recorded:**
+Distance: 155m
+Time (1st try): 52 seconds
+Time (2nd try): 40 seconds
+
+You should have your own record of the channel width at the point where we measured the flow, and at the living bridge.
+
+For average depth of the river where we measured the flow, use 1.5m.
+
 From this, we will calculate:
 
 1. The flow speed of the river in metres per second
