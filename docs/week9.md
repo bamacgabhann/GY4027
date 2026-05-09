@@ -18,9 +18,9 @@ This section will contain lecture slides and the assigned reading for the week.
 
 ## Lecture
 
-Lecture Monday 0900-1000, C1-059
-
 Lecture slides: [GY4027 L9 Karst Landscapes](./assets/lectures/GY4027_L9_Karst_Landscapes.pdf)
+
+{% include youtube.html id="mAOU-rO4Grs" %}
 
 ## Labs
 

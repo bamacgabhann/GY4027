@@ -18,9 +18,9 @@ This section will contain lecture slides and the assigned reading for the week.
 
 ## Lecture
 
-Lecture Monday 0900-1000, C1-059
-
 Lecture slides: [GY4027 L12 Anthropogenic Landscapes](./assets/lectures/GY4027_L12_Anthropogenic_Landscapes.pdf)
+
+{% include youtube.html id="qZ6EAIscqVM" %}
 
 ## Labs
 
