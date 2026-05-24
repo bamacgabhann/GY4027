@@ -92,6 +92,7 @@ You may bring ONE PAGE of notes into the exam. One side of an A4 page. It's up t
 Knowledge/use of the Geologic Time Scale is not specifically required, so I wouldn't recommend including this on your one page.
 
 **Generic Marking Scheme**
+
 | GRADE | % | Criteria |
 | ----------- | ----------- | ----------- |
 | A1 | 80% | Exceptional answer which comprehensively addresses the question. Demonstrates ability to synthesize and analyse information well beyond that delivered in the module content. |
