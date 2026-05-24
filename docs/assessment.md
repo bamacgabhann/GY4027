@@ -91,21 +91,21 @@ You may bring ONE PAGE of notes into the exam. One side of an A4 page. It's up t
 
 Knowledge/use of the Geologic Time Scale is not specifically required, so I wouldn't recommend including this on your one page.
 
-**Generic Marking Scheme**
+**Generic Marking Scheme:**
 
 | GRADE | % | Criteria |
 | ----------- | ----------- | ----------- |
-| A1 | 80% | Exceptional answer which comprehensively addresses the question. Demonstrates ability to synthesize and analyse information well beyond that delivered in the module content. |
-| A2 | 70% | Excellent answer which comprehensively addresses the question. Demonstrates ability to interpret and evaluate information or concepts in depth with strong critical reasoning. Evidence of reading academic sources considerably beyond the module content. Well structured, with a high standard of writing. As good as can reasonably be expected. |
-| B1 | 65% | Superior answer with plenty of relevant material, based on the reading of academic sources exceeding the module content. Well written and structured but does not demonstrate quite as deep interpretation or evaluation of information or concepts, or critical reasoning, as students in the A range. Does not “make the material their own”. |
-| B2 | 60% | Very good answer with a lot of relevant material. More evidence of reading academic sources beyond the module content than a B3 student; but arguments not as well constructed as B1 work. |
-| B3 | 55% | Competently addresses the question. Demonstrates a good grasp of concepts, with clear evidence of some independent reading from academic sources beyond material covered in module content. |
-| C1 | 50% | Competently addresses the task. Demonstrates a good grasp of concepts. Includes all or most relevant points delivered in the module, but is based mainly on material covered in lectures/tutorials/laboratory classes; demonstrates little or no evidence of independent reading from academic sources. |
-| C2 | 45% | Addresses the task, but does not include all relevant points delivered in the module, or has some errors in understanding. Little or no evidence of any independent reading from academic sources. |
-| C3 | 40% | Addresses the question, but fails to include significant amounts of relevant points delivered in the module; or some good points are undermined by many inaccuracies or confusion on key concepts. |
-| D1 | 35% | Weak answer failing to reach the pass threshold. This will often be because of a failure to adequately address the task, i.e., insufficient relevant material. |
-| D2 | 30% | Very ‘thin’ answer. Student typically includes very little relevant content. Little or no evidence of more than general knowledge of the topic. |
-| F | (<30%) | Answer reveals little evidence of engagement with the module content, and therefore does not merit the award of any modular credit. |
+| **A1** | 80% | Exceptional answer which comprehensively addresses the question. Demonstrates ability to synthesize and analyse information well beyond that delivered in the module content. |
+| **A2** | 70% | Excellent answer which comprehensively addresses the question. Demonstrates ability to interpret and evaluate information or concepts in depth with strong critical reasoning. Evidence of reading academic sources considerably beyond the module content. Well structured, with a high standard of writing. As good as can reasonably be expected. |
+| **B1** | 65% | Superior answer with plenty of relevant material, based on the reading of academic sources exceeding the module content. Well written and structured but does not demonstrate quite as deep interpretation or evaluation of information or concepts, or critical reasoning, as students in the A range. Does not “make the material their own”. |
+| **B2** | 60% | Very good answer with a lot of relevant material. More evidence of reading academic sources beyond the module content than a B3 student; but arguments not as well constructed as B1 work. |
+| **B3** | 55% | Competently addresses the question. Demonstrates a good grasp of concepts, with clear evidence of some independent reading from academic sources beyond material covered in module content. |
+| **C1** | 50% | Competently addresses the task. Demonstrates a good grasp of concepts. Includes all or most relevant points delivered in the module, but is based mainly on material covered in lectures/tutorials/laboratory classes; demonstrates little or no evidence of independent reading from academic sources. |
+| **C2** | 45% | Addresses the task, but does not include all relevant points delivered in the module, or has some errors in understanding. Little or no evidence of any independent reading from academic sources. |
+| **C3** | 40% | Addresses the question, but fails to include significant amounts of relevant points delivered in the module; or some good points are undermined by many inaccuracies or confusion on key concepts. |
+| **D1** | 35% | Weak answer failing to reach the pass threshold. This will often be because of a failure to adequately address the task, i.e., insufficient relevant material. |
+| **D2** | 30% | Very ‘thin’ answer. Student typically includes very little relevant content. Little or no evidence of more than general knowledge of the topic. |
+| **F** | (<30%) | Answer reveals little evidence of engagement with the module content, and therefore does not merit the award of any modular credit. |
 
 ___
 
