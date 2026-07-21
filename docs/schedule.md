@@ -1,8 +1,6 @@
-![UL Geography logo](./assets/images/GY4027_logo-01.png)
-
 ![Module Cover image](./assets/images/GY4027_new_banners_Course_Banner.png)
 
-# Module Schedule
+# GY4027 Module Schedule
 
 **Lectures:** 
 
@@ -17,6 +15,7 @@ Mondays 0900-1000, C1-059
 **Weekly Schedule:**
 
 | Week | Lecture Date | Topic | Lab Date | Lab Group |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 |Week 1 | 26 Jan | [Weathering and Erosion](./week1.md) | -- | -- |
 |Week 2 | ONLINE | [Erosion and Transport](./week2.md) | -- | -- |
 |Week 3 | 09 Feb | [Transport and Deposition](./week3.md) | 13 Feb | 2B |
