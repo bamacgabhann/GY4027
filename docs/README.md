@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Landscape Evolution
-permalink: /GY4027/
 ---
 ![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)
 
-[Home](/) | [Landscape Evolution](/GY4027/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
+[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
 
 ***
 
 
-![Landscape Evolution course Cover image](./assets/images/landscape_evolution_course_banner.png)
+[![Landscape Evolution course Cover image](./assets/images/landscape_evolution_course_banner.png)](https://navigatorgeospatial.ie/GY4027/)
 
 # Landscape Evolution
 
