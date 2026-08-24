@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Reduce the height of the header block */
+.page-header {
+    padding: 2rem 2rem; 
+}
+
+/* Hide the title and description text in the header */
+.project-name, .project-tagline {
+    display: none; 
+}

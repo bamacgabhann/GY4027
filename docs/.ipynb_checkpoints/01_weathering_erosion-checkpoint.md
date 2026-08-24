@@ -1,3 +1,5 @@
+[![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)](https://navigatorgeospatial.ie/GY4027/)
+
 ![Topic 1 Cover image](./assets/images/landscape_evolution_banner_Weathering_Erosion.png)
 
 # Topic 1: Weathering and Erosion
@@ -12,12 +14,12 @@ By the end of this topic you should be able to:
 
 ## Lecture
 
-Lecture slides: [GY4027 L1 Weathering and Erosion](./assets/lectures/L1_Weathering_and_Erosion.pdf)
+Lecture slides: [L1 Weathering and Erosion](./assets/lectures/L1_Weathering_and_Erosion.pdf)
 
 
 ## Reading
 
-### Module textbook
+### Suggested Textbook
 
 I suggest reading Chapter One and Chapter Seven of Huggett, R. (2017) Fundamentals of Geomorphology, 4th Edition. Routledge, London.
 

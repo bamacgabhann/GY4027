@@ -1,11 +1,4 @@
----
-layout: default
-title: Landscape Evolution
----
 ![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)
-
-***
-
 
 [![Landscape Evolution course Cover image](./assets/images/landscape_evolution_course_banner.png)](https://navigatorgeospatial.ie/GY4027/)
 

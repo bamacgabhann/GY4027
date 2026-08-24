@@ -1,12 +1,4 @@
----
-layout: default
-title: Landscape Evolution
----
 [![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)](https://navigatorgeospatial.ie/GY4027/)
-
-[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
-
-***
 
 ![Topic 1 Cover image](./assets/images/landscape_evolution_banner_Weathering_Erosion.png)
 
