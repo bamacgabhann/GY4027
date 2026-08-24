@@ -25,17 +25,17 @@ On successful completion of this module, you will be able to:
 
 For each topic, you will find lecture slides (video lectures to follow), suggested reading, and some additional content.
 
-[Weathering and Erosion](./topic1.md)
-[Erosion and Transport](./topic2.md)
-[Transport and Deposition](./topic3.md)
-[Upland Landscapes](./topic4.md)
-[Fluvial Landscapes](./topic5.md)
-[Glacial Landscapes](./topic6.md)
-[Coastal Landscapes](./topic7.md)
-[Aeolian Landscapes](./topic8.md)
-[Karst Landscapes](./topic9.md)
-[Planetary Landscapes](./topic11.md)
-[Anthropogenic Landscapes](./topic12.md)
+1. [Weathering and Erosion](./01_weathering_erosion.md)
+2. [Erosion and Transport](./02_transport.md)
+3. [Transport and Deposition](./03_deposition.md)
+4. [Upland Landscapes](./04_upland.md)
+5. [Fluvial Landscapes](./05_fluvial.md)
+6. [Glacial Landscapes](./06_glacial.md)
+7. [Coastal Landscapes](./07_coastal.md)
+8. [Aeolian Landscapes](./08_aeolian.md)
+9. [Karst Landscapes](./09_karst.md)
+10. [Planetary Landscapes](./10_planetary.md)
+11. [Anthropogenic Landscapes](./11_anthropogenic.md)
 
 
 
