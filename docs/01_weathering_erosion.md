@@ -1,3 +1,14 @@
+---
+layout: default
+title: Landscape Evolution
+permalink: /courses/landscape-evolution/01_weathering_erosion.html
+---
+![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)
+
+[Home](/) | [Landscape Evolution](/courses/landscape-evolution/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
+
+***
+
 ![Topic 1 Cover image](./assets/images/landscape_evolution_banner_Weathering_Erosion.png)
 
 # Topic 1: Weathering and Erosion
