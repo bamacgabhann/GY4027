@@ -1,7 +1,6 @@
-title: Landscape Evolution 
-description: Landscape Evolution course from Navigator Geospatial
+title: Navogator Geospatial
+description:
 theme: jekyll-theme-cayman
 show_downloads: false
-baseurl: "/GY4027"
 github:
   is_project_page: false
