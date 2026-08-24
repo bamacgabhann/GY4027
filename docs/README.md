@@ -4,8 +4,6 @@ title: Landscape Evolution
 ---
 ![Navigator Geospatial Course Logo](./assets/images/NG_landscape_evolution_logo.png)
 
-[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
-
 ***
 
 
